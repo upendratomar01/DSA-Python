@@ -32,9 +32,9 @@
     <ul>
       <li>Singly Linked List</li>
       <li>Doubly Linked List</li>
-      <!-- <li>Stack</li>
+      <li>Stack</li>
       <li>Queue</li>
-      <li>Binary Search Tree</li>
+      <!-- <li>Binary Search Tree</li>
       <li>Binary Heaps</li>
       <li>Hash Tables</li>
       <li>Graphs</li> -->
